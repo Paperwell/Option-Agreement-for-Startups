@@ -1,4 +1,4 @@
-##Description
+## Description
 
 Stock option agreements specify the individual options grants, vesting schedules, and other employee-specific information. Each grant of options will be documented by a separate option agreement.
 
@@ -51,11 +51,11 @@ This legal document comes from the Start-Up Forms Library provided by the Emergi
   - 83(b) Election Form
   - 25102(o) Notice
 
-##Legal Liability
+## Legal Liability
 
 This document should not be considered legal advice, and no attorney-client relationship is formed by your use of this document.  This information may not be suited for your specific situation.  Please consult an attorney to address your particular needs.  See the [Orrick] terms.
 
-##Help Make Legal Documents Open-Source 
+## Help Make Legal Documents Open-Source 
 
 We're [Paperwell.com] and we're trying to make quality legal documents a free, public resource.  
 
